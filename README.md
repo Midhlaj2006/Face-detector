@@ -1,5 +1,5 @@
 # *Face-detector*
-** simple opencv-python program to draw ractangle on your face 😉***
+***simple opencv-python program to draw ractangle on your face 😉***
 
 ### *pre-requirements and download options*
 + numpy
