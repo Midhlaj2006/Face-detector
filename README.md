@@ -29,6 +29,8 @@ Or just type in this for installing all of them together
  
     ```python face.py```
 
+_OR_ see the code in [![Repl.it account](https://img.shields.io/badge/Repl.it-10171a?style=flat&logo=repl.it&logoColor=white)](https://repl.it/@Midhlaj2006/Face-detector)
+
 ## *Usage*
 This repo is licensed under [CC0-1.0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 + more [info](https://github.com/Midhlaj2006/Face-detector/blob/base/LICENSE)
