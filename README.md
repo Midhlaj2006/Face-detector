@@ -17,7 +17,7 @@ Or just type in this for installing all of them together
 ### *execution*
 + _clone_ this repository by
 
-  git : ```https://github.com/Midhlaj2006/Face-detector.git```
+  git : ```git clone https://github.com/Midhlaj2006/Face-detector.git```
   
   gh  : ```gh repo clone Midhlaj2006/Face-detector```
   
